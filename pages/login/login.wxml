@@ -1,0 +1,7 @@
+<!--pages/login/login.wxml-->
+<view id="login">
+  <view class="log">
+    <image src="/image/login_logo@3x.png"></image>
+  </view>
+  <button class="register">微信用户一键登录</button>
+</view>

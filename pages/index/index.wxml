@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+  <text>测试</text>
+  <button bindtap="skip">录音</button>
+</view>

@@ -1,0 +1,23 @@
+/* pages/login/login.wxss */
+#login{
+  width: 100%;
+  height: 100%;
+}
+#login .log{
+  width: 300rpx;
+  margin: 0 auto;
+  margin-top: 174rpx;
+}
+#login .log image{  
+  width: 300rpx;
+  height: 240rpx;
+  border: 0;
+}
+#login .register{
+  width: 560rpx;
+  height: 88rpx;
+  line-height: 88rpx;
+  background: #1AAD19;
+  color: #fff;
+  margin-top: 148rpx;
+}
